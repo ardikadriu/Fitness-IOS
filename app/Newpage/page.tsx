@@ -5,7 +5,7 @@ import Footer from "../2nd-components/Footer";
 
 const page = () => {
   return (
-    <div className="max-w-[375px] flex flex-col items-center">
+    <div className="max-w-[375px] max-sm:flex flex max-sm:flex-col max-sm:items-center flex-col items-center">
       <Topbar />
       <Profile />
       <Imagesselect />

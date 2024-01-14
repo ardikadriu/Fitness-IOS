@@ -1,6 +1,6 @@
 const Footer = () => {
   return (
-    <div className="w-full bg-[black] rounded-t-[20px] relative mt-[36px] h-[63px]">
+    <div className="w-full max-sm:w-full bg-[black] rounded-t-[20px] relative mt-[36px] h-[63px] shrink-0">
       <div className="bg-white w-[70px] h-[46px] rounded-[50%] absolute left-[19px] top-[-23px] flex justify-center items-center">
         <div className="bg-[black] flex justify-center items-center w-[45px] h-[35px] rounded-[50%]">
           <svg
@@ -32,7 +32,7 @@ const Footer = () => {
         <h1 className="text-white mt-[28px] ml-[36px] text-[10px] font-rufina font-medium ">
           HOME
         </h1>
-        <div className="flex w-[196px] justify-between ml-[65px] mt-[23px]">
+        <div className="flex w-[196px] justify-between ml-[65px] mt-[23px] shrink-0">
           <svg
             width="20"
             height="20"

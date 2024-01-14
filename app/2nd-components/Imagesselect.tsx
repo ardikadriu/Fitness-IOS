@@ -3,7 +3,7 @@ import Youngfitnes from "@/public/Young-sportist.png";
 
 const Imagesselect = () => {
   return (
-    <div className="">
+    <div className="max-sm:flex max-sm:flex-col max-sm:items-center max-sm:w-full">
       <div className="flex items-center mt-[22px] justify-center mb-4 ">
         <svg
           xmlns="http://www.w3.org/2000/svg"
