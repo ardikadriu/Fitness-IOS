@@ -3,11 +3,11 @@ import girltraining from "@/public/Firstpage-Girl.png";
 
 const Footer = () => {
   return (
-    <div className="relative flex justify-center ">
+    <div className=" flex justify-center ">
       <Image
-        className="absolute top-[-67px]"
+        className="absolute bottom-[0] "
         src={girltraining}
-        width={1000}
+        width={440}
         height={667}
         alt="training"
       />

@@ -2,7 +2,7 @@ import Image from "next/image";
 import Profilepic from "@/public/porfile-picture.png";
 const Profile = () => {
   return (
-    <div className="flex max-sm:w-[335px] max-sm:flex max-sm:justify-between mt-[14px]  w-[335px] justify-between">
+    <div className="flex max-sm:w-[335px] max-sm:flex max-sm:justify-between mt-[44px] mb-20   w-[335px] justify-between ">
       <div>
         <h2 className="font-rufina text-[13px] text-[#848484] font-medium leading-[16.9px] ">
           GOOD MORNING
